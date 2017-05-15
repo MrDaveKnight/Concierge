@@ -9,7 +9,7 @@
         <sys_class_name>sc_catalog_site</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-15 13:41:49</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>741e1db4db32b200a891595fdf9619a7</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Employee Self-Service.Concierge</sys_name>

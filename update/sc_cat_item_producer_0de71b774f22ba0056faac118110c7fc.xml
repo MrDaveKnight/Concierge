@@ -112,6 +112,7 @@
         <average_image_color>#0</average_image_color>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
+        <encryption_context/>
         <file_name>icon</file_name>
         <image_height>200</image_height>
         <image_width>200</image_width>
@@ -157,6 +158,7 @@
         <average_image_color>#0</average_image_color>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
+        <encryption_context/>
         <file_name>picture</file_name>
         <image_height>200</image_height>
         <image_width>200</image_width>
