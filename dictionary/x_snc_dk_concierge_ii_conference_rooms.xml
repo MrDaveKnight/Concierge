@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Conference Rooms" max_length="40" name="x_snc_dk_concierge_ii_conference_rooms" type="collection">
+        <element label="Capacity" max_length="40" name="u_capacity" type="integer"/>
+        <element label="Name" max_length="40" name="u_name" type="string"/>
+        <element label="Video conferencing" max_length="40" name="video_conferencing" type="boolean"/>
+    </element>
+</database>

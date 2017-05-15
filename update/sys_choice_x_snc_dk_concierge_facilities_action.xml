@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="action" table="x_snc_dk_concierge_facilities" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>action</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Request conference room cleaning</label>
+            <language>en</language>
+            <name>x_snc_dk_concierge_facilities</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-15 10:35:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5d733c304f3afa0056faac118110c7d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-15 10:35:37</sys_updated_on>
+            <value>Request conference room cleaning</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>action</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Report toilet malfunction</label>
+            <language>en</language>
+            <name>x_snc_dk_concierge_facilities</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-15 10:35:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1d733c304f3afa0056faac118110c7d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-15 10:35:37</sys_updated_on>
+            <value>Report toilet malfunction</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>action</element>
+            <name>x_snc_dk_concierge_facilities</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-15 10:35:37</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>d5733c304f3afa0056faac118110c7d5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>action</sys_name>
+            <sys_package display_value="Concierge" source="x_snc_dk_concierge">ab196c634f6e3a00ea338e328110c79f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Concierge">ab196c634f6e3a00ea338e328110c79f</sys_scope>
+            <sys_update_name>sys_choice_x_snc_dk_concierge_facilities_action</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-15 10:35:38</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

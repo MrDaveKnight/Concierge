@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Imp Conference Rooms" max_length="40" name="x_snc_dk_concierge_ii_tmpl_conference_rooms" type="collection">
+        <element attributes="import_attribute_name=Capacity" label="Capacity" max_length="40" name="u_capacity" type="integer"/>
+        <element attributes="import_attribute_name=Name,edge_encryption_enabled=true" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="import_attribute_name=Projector,edge_encryption_enabled=true" label="Projector" max_length="40" name="u_projector" type="string"/>
+        <element attributes="import_attribute_name=Telephony,edge_encryption_enabled=true" label="Telephony" max_length="40" name="u_telephony" type="string"/>
+        <element attributes="import_attribute_name=Video Conference,edge_encryption_enabled=true" label="Video Conference" max_length="40" name="u_video_conference" type="string"/>
+    </element>
+</database>

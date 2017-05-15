@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_catalog">
+    <sc_catalog action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <background_color>white</background_color>
+        <description>CBRE Concierge Services</description>
+        <desktop_continue_shopping/>
+        <desktop_home_page/>
+        <desktop_image/>
+        <editors/>
+        <enable_wish_list>false</enable_wish_list>
+        <manager/>
+        <sys_class_name>sc_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-12 15:17:26</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>511796334fae7a0056faac118110c767</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Concierge</sys_name>
+        <sys_package display_value="Concierge" source="x_snc_dk_concierge">ab196c634f6e3a00ea338e328110c79f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Concierge">ab196c634f6e3a00ea338e328110c79f</sys_scope>
+        <sys_update_name>sc_catalog_511796334fae7a0056faac118110c767</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-12 15:17:26</sys_updated_on>
+        <title>Concierge</title>
+    </sc_catalog>
+    <sys_translated_text action="delete_multiple" query="documentkey=511796334fae7a0056faac118110c767"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#0</average_image_color>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <encryption_context/>
+        <file_name>desktop_image</file_name>
+        <image_height>200</image_height>
+        <image_width>200</image_width>
+        <size_bytes>1918</size_bytes>
+        <size_compressed>1866</size_compressed>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-12 15:24:16</sys_created_on>
+        <sys_id>94c852734fae7a0056faac118110c791</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-12 15:24:17</sys_updated_on>
+        <table_name>ZZ_YYsc_catalog</table_name>
+        <table_sys_id>511796334fae7a0056faac118110c767</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="desktop_image" sys_id="94c852734fae7a0056faac118110c791">94c852734fae7a0056faac118110c791</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-12 15:24:16</sys_created_on>
+        <sys_id>9cc852734fae7a0056faac118110c791</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2476</length>
+        <position>1</position>
+        <sys_attachment display_value="desktop_image" sys_id="94c852734fae7a0056faac118110c791">94c852734fae7a0056faac118110c791</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-12 15:24:16</sys_created_on>
+        <sys_id>10c852734fae7a0056faac118110c792</sys_id>
+    </sys_attachment_doc>
+</record_update>

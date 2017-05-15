@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_producer">
+    <sc_cat_item_producer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <can_cancel>false</can_cancel>
+        <category/>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <entitlement_script/>
+        <group/>
+        <icon/>
+        <ignore_price>false</ignore_price>
+        <image/>
+        <list_price>0</list_price>
+        <location/>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Clean Conference Room</name>
+        <no_cart>false</no_cart>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_search>false</no_search>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("./com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=cb1993b74f22ba0056faac118110c7a7&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <roles/>
+        <sc_catalogs/>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <script/>
+        <short_description/>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item_producer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-12 20:06:50</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>cb1993b74f22ba0056faac118110c7a7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Clean Conference Room</sys_name>
+        <sys_package display_value="Concierge" source="x_snc_dk_concierge">ab196c634f6e3a00ea338e328110c79f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Concierge">ab196c634f6e3a00ea338e328110c79f</sys_scope>
+        <sys_update_name>sc_cat_item_producer_cb1993b74f22ba0056faac118110c7a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-12 20:08:37</sys_updated_on>
+        <table_name>x_snc_dk_concierge_facilities</table_name>
+        <template/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <view/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_producer>
+    <sys_translated_text action="delete_multiple" query="documentkey=cb1993b74f22ba0056faac118110c7a7"/>
+    <fx_price action="delete_multiple" query="id=cb1993b74f22ba0056faac118110c7a7"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>cb1993b74f22ba0056faac118110c7a7</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-12 20:06:50</sys_created_on>
+        <sys_id>1769d3b74f22ba0056faac118110c749</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-12 20:06:50</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>cb1993b74f22ba0056faac118110c7a7</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-12 20:06:50</sys_created_on>
+        <sys_id>5f69d3b74f22ba0056faac118110c749</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-12 20:06:50</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#0</average_image_color>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <encryption_context/>
+        <file_name>picture</file_name>
+        <image_height>200</image_height>
+        <image_width>200</image_width>
+        <size_bytes>3179</size_bytes>
+        <size_compressed>2953</size_compressed>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-12 20:07:02</sys_created_on>
+        <sys_id>6279d3b74f22ba0056faac118110c776</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-12 20:07:03</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item_producer</table_name>
+        <table_sys_id>cb1993b74f22ba0056faac118110c7a7</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="picture" sys_id="6279d3b74f22ba0056faac118110c776">6279d3b74f22ba0056faac118110c776</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-12 20:07:02</sys_created_on>
+        <sys_id>a279d3b74f22ba0056faac118110c776</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>3736</length>
+        <position>1</position>
+        <sys_attachment display_value="picture" sys_id="6279d3b74f22ba0056faac118110c776">6279d3b74f22ba0056faac118110c776</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-12 20:07:02</sys_created_on>
+        <sys_id>2679d3b74f22ba0056faac118110c776</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>eBJ0wPyFW06QlSXwIffx1e+iMOjn5/+bEVTOWkZDXSzVvUmNsoJ8uvtLt2r+afFa//BqdMKB17Xgj8iPC8Vs7YEPqRjhBJXGtFo+skutovweiq+3pBHouZhXayBsZpKKclSsyY3SBSUov5WVknqYx1N9S75jxnb7HM//LQDsTjnZVFn7JP0Lherr/WsMAAA=</data>
+        <length>192</length>
+        <position>2</position>
+        <sys_attachment display_value="picture" sys_id="6279d3b74f22ba0056faac118110c776">6279d3b74f22ba0056faac118110c776</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-12 20:07:02</sys_created_on>
+        <sys_id>a679d3b74f22ba0056faac118110c776</sys_id>
+    </sys_attachment_doc>
+</record_update>
