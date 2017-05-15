@@ -6,7 +6,7 @@
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-15 10:44:06</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>a96530b04f3afa0056faac118110c796</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Conference Rooms.Service</sys_name>

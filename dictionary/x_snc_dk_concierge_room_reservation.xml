@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Room Reservation" max_length="40" name="x_snc_dk_concierge_room_reservation" type="collection">
+    <element audit="true" extends="task" label="Room Reservation" max_length="40" name="x_snc_dk_concierge_room_reservation" type="collection">
         <element label="Reservation end" max_length="40" name="reservation_end" type="glide_date_time"/>
         <element label="Reservation start" max_length="40" name="reservation_start" type="glide_date_time"/>
         <element label="Room" max_length="32" name="room" reference="x_snc_dk_concierge_ii_conference_rooms" type="reference"/>

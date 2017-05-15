@@ -22,7 +22,7 @@
         <sys_class_name>sc_category</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-12 15:38:31</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>8efbdeb34fae7a0056faac118110c7dd</sys_id>
         <sys_mod_count>9</sys_mod_count>
         <sys_name>Dominos Delivery</sys_name>

@@ -6,7 +6,7 @@
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-12 15:42:28</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>beecd6f34fae7a0056faac118110c7f8</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Dominos.Pacific Veggie</sys_name>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance_menu">
+    <sp_instance_menu action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <short_description/>
+        <size>md</size>
+        <sp_column/>
+        <sp_widget display_value="Header Menu">5ef595c1cb12020000f8d856634c9c6e</sp_widget>
+        <sys_class_name>sp_instance_menu</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-15 15:10:21</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>3d52f97c4f7afa0056faac118110c74d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>CBRE Header Menu</sys_name>
+        <sys_package display_value="Concierge" source="x_snc_dk_concierge">ab196c634f6e3a00ea338e328110c79f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Concierge">ab196c634f6e3a00ea338e328110c79f</sys_scope>
+        <sys_update_name>sp_instance_menu_3d52f97c4f7afa0056faac118110c74d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-15 15:12:02</sys_updated_on>
+        <title>CBRE Header Menu</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"enable_cart": {
+		"displayValue": "true",
+		"value": true
+	}
+}]]></widget_parameters>
+    </sp_instance_menu>
+    <sys_translated_text action="delete_multiple" query="documentkey=3d52f97c4f7afa0056faac118110c74d"/>
+</record_update>

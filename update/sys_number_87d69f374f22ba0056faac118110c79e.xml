@@ -8,7 +8,7 @@
         <sys_class_name>sys_number</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-12 19:55:36</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>87d69f374f22ba0056faac118110c79e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>ROO</sys_name>

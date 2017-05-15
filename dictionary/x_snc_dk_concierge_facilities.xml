@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Facilities" max_length="40" name="x_snc_dk_concierge_facilities" sizeclass="1" type="collection">
-        <element choice="1" label="Action" max_length="40" name="action" type="choice">
+    <element extends="task" label="Facilities" max_length="40" name="x_snc_dk_concierge_facilities" type="collection">
+        <element choice="1" label="Action" mandatory="true" max_length="40" name="action" type="choice">
             <choice>
                 <element label="Request conference room cleaning" sequence="0" value="Request conference room cleaning"/>
                 <element label="Report toilet malfunction" sequence="1" value="Report toilet malfunction"/>
             </choice>
         </element>
         <element label="Requested for" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
-        <element label="Room" max_length="32" name="room" reference="x_snc_dk_concierge_ii_conference_rooms" type="reference"/>
+        <element label="Room" mandatory="true" max_length="32" name="room" reference="x_snc_dk_concierge_ii_conference_rooms" type="reference"/>
     </element>
 </database>

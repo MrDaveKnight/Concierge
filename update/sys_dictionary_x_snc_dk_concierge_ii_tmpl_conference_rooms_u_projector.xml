@@ -47,8 +47,8 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-12 19:50:59</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>dfc5d3374f22ba0056faac118110c79c</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e772ce384fbafa0056faac118110c7ef</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Projector</sys_name>
         <sys_package display_value="Concierge" source="x_snc_dk_concierge">ab196c634f6e3a00ea338e328110c79f</sys_package>
@@ -56,8 +56,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Concierge">ab196c634f6e3a00ea338e328110c79f</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_dk_concierge_ii_tmpl_conference_rooms_u_projector</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-05-12 19:50:59</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-05-15 16:21:03</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

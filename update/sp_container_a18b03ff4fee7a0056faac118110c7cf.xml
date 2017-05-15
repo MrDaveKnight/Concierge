@@ -14,7 +14,7 @@
         <sys_class_name>sp_container</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-12 19:06:05</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>a18b03ff4fee7a0056faac118110c7cf</sys_id>
         <sys_mod_count>3</sys_mod_count>
         <sys_name>CBRE Concierge Catering - Container 2</sys_name>

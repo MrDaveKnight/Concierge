@@ -15,7 +15,7 @@ section.page, section.body {&#13;
         <sys_class_name>sp_page</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-12 17:14:13</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>b2e1feff4fae7a0056faac118110c7da</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>cbre_index</sys_name>

@@ -13,15 +13,15 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-12 19:50:59</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>5fc5d3374f22ba0056faac118110c7af</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a772ce384fbafa0056faac118110c7fc</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_dk_concierge_ii_tmpl_conference_rooms</sys_name>
         <sys_package display_value="Concierge" source="x_snc_dk_concierge">ab196c634f6e3a00ea338e328110c79f</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Concierge">ab196c634f6e3a00ea338e328110c79f</sys_scope>
-        <sys_update_name>ua_table_licensing_config_5fc5d3374f22ba0056faac118110c7af</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_a772ce384fbafa0056faac118110c7fc</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-05-12 19:50:59</sys_updated_on>
     </ua_table_licensing_config>

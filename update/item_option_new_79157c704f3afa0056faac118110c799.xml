@@ -58,7 +58,7 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-15 10:42:45</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>79157c704f3afa0056faac118110c799</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Reservation end</sys_name>
