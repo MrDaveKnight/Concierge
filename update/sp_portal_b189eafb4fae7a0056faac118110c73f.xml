@@ -70,7 +70,6 @@ $text-muted: #979797;
         <average_image_color>#201b1b</average_image_color>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
-        <encryption_context/>
         <file_name>logo</file_name>
         <image_height>332</image_height>
         <image_width>420</image_width>
