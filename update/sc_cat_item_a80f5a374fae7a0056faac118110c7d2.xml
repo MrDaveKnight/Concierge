@@ -7,7 +7,7 @@
         <category display_value="Dominos Delivery">8efbdeb34fae7a0056faac118110c7dd</category>
         <cost>0</cost>
         <custom_cart/>
-        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan/>
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
         <description><![CDATA[<p><span style="font-size: 24pt;"> The MeatZZa Pizza!</span></p>]]></description>
@@ -48,9 +48,9 @@
         <sys_class_name>sc_cat_item</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-12 15:51:36</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_customer_update>true</sys_customer_update>
         <sys_id>a80f5a374fae7a0056faac118110c7d2</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>MeatZZa</sys_name>
         <sys_package display_value="Concierge" source="x_snc_dk_concierge">ab196c634f6e3a00ea338e328110c79f</sys_package>
         <sys_policy/>
@@ -58,7 +58,7 @@
         <sys_scope display_value="Concierge">ab196c634f6e3a00ea338e328110c79f</sys_scope>
         <sys_update_name>sc_cat_item_a80f5a374fae7a0056faac118110c7d2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-05-12 17:05:00</sys_updated_on>
+        <sys_updated_on>2017-05-16 01:11:40</sys_updated_on>
         <template/>
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
@@ -66,7 +66,7 @@
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
         <visible_standalone>true</visible_standalone>
-        <workflow/>
+        <workflow display_value="Order dominos pizza">22d6572c4f7eba00ea338e328110c749</workflow>
     </sc_cat_item>
     <sys_translated_text action="delete_multiple" query="documentkey=a80f5a374fae7a0056faac118110c7d2"/>
     <fx_price action="delete_multiple" query="id=a80f5a374fae7a0056faac118110c7d2"/>
